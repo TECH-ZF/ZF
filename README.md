@@ -10,17 +10,7 @@
  pip install future -y
  Note install first
  
- rm -rf SSB-
- rm -rf JAMES
- rm -rf Adi
- rm -rf pro
- rm -rf HADI371
- rm -rf Fuck
- rm -rf tech-zf
  rm -rf ZF
- 
  git clone https://github.com/TECH-ZF/ZF
- 
  cd ZF
-
  python zf.py
