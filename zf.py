@@ -1,2 +1,2 @@
-from ZF import superuser
-superuser()
+from ZF import BOSS
+BOSS()
