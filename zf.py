@@ -1,2 +1,2 @@
-from ZF import BOSS
-BOSS()
+from ZF import menu
+menu()
