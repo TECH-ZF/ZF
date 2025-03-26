@@ -1,2 +1,2 @@
-from ZF import ZF
+from zf import ZF
 ZF()
