@@ -1,2 +1,2 @@
-from ZF import ZF
-ZF()
+from ZF import ip
+ip()
